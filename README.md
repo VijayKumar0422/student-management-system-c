@@ -26,13 +26,13 @@ student-management-system-c/
 
 #  Features
 
-✅ Menu Driven Program  
-✅ Structure Used  
-✅ File Handling Used  
-✅ Binary File Storage  
-✅ Search by Roll Number  
-✅ Delete Record  
-✅ Beginner Friendly Project  
+ Menu Driven Program  
+ Structure Used  
+ File Handling Used  
+ Binary File Storage  
+ Search by Roll Number  
+ Delete Record  
+ Beginner Friendly Project  
 
 ---
 
