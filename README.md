@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# 🎓 Student Management System in C
+
+#  Student Management System in C
 
 A simple **Student Management System** built using **C Language**, **Structure**, and **File Handling**.
 
@@ -12,14 +12,14 @@ This project performs basic student record operations like:
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```bash
 student-management-system-c/
-│
-├── student_management_system.c
-├── student.txt
-└── README.md
+
+ student_management_system.c
+ student.txt
+ README.md
 ```
 
 ---
@@ -36,7 +36,7 @@ student-management-system-c/
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -46,7 +46,7 @@ student-management-system-c/
 
 ---
 
-# 📚 Concepts Used
+#  Concepts Used
 
 - Structure
 - Functions
@@ -165,7 +165,7 @@ rename()
 
 ---
 
-# 🔍 CRUD Operations
+#  CRUD Operations
 
 | Operation | Description |
 |---|---|
@@ -210,4 +210,4 @@ If you like this project, give it a ⭐ on GitHub.
 =======
 # student-management-system-c
 Student Management System using C language with Structure and File Handling.
->>>>>>> 1e357fa2188f0dc84fcffa1b8278b88bf980c78b
+
