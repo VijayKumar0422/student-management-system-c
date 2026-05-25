@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Student Management System in C
 
 A simple **Student Management System** built using **C Language**, **Structure**, and **File Handling**.
@@ -206,3 +207,7 @@ After completing this project, you will learn:
 #  GitHub
 
 If you like this project, give it a ⭐ on GitHub.
+=======
+# student-management-system-c
+Student Management System using C language with Structure and File Handling.
+>>>>>>> 1e357fa2188f0dc84fcffa1b8278b88bf980c78b
